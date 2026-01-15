@@ -59,7 +59,7 @@ export default function LoginPage() {
                         )}
                     </Button>
                     <p className="mt-4 text-center text-xs text-slate-500">
-                        @school.edu 도메인 계정만 접속 가능합니다.
+                        테스트 기간: 모든 Google 계정으로 접속 가능합니다.
                     </p>
                 </CardContent>
             </Card>
